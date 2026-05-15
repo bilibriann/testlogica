@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm config *)",
+      "Bash(pnpm config *)",
+      "Bash(yarn config *)"
+    ]
+  }
+}
